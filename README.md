@@ -1,0 +1,5 @@
+[![make.fun · u-puan-describe-your-ex-in-one-word-9fc6ebe7](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7?utm_source=github&utm_medium=readme&utm_campaign=u-puan-describe-your-ex-in-one-word-9fc6ebe7)
+[![rank](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/tanakatsu33/makefun-exword/rank.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-puan-describe-your-ex-in-one-word-9fc6ebe7)
+[![reward](https://make.fun/badge/u-puan-describe-your-ex-in-one-word-9fc6ebe7/tanakatsu33/makefun-exword/reward.svg)](https://make.fun/bounty/u-puan-describe-your-ex-in-one-word-9fc6ebe7?utm_source=github&utm_medium=readme&utm_campaign=u-puan-describe-your-ex-in-one-word-9fc6ebe7)
+
+My one-word description of an ex: **Excommunicated**, formally cast out of my life with no appeal. The tiny Node program in `main.ts` checks the word against the bounty rules and writes it to `entry.txt` in `$MAKEFUN_OUTPUT_DIR` (default `/output`).
